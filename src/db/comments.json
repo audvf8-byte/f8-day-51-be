@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "postId": 1,
+    "content": "xin chào",
+    "createdAt": "2026-06-11T07:18:51.597Z"
+  },
+  {
+    "id": 2,
+    "postId": 1,
+    "content": "Hello",
+    "createdAt": "2026-06-11T07:19:47.832Z"
+  },
+  {
+    "id": 3,
+    "postId": 2,
+    "content": "comments post 2",
+    "createdAt": "2026-06-11T11:25:27.562Z"
+  }
+]
